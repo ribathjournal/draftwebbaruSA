@@ -1,0 +1,24 @@
+WEBSITE SAHABAT AL-AQSHA - VERSI HTML
+
+Cara membuka:
+1. Ekstrak (unzip) seluruh folder ini.
+2. Buka file index.html dengan Chrome, Edge, Firefox, atau Safari.
+   Semua halaman saling terhubung lewat menu.
+
+Isi folder:
+- index.html ............ Beranda (banner slider otomatis)
+- tentang.html .......... Tentang Kami
+- program.html .......... Program
+- program-detail.html ... Detail Program
+- kabar.html ............ Kabar
+- galeri.html ........... Galeri
+- rekening.html ......... Rekening Donasi
+- kontak.html ........... Kontak
+- assets/ ............... foto, banner, dan video
+- support.js ............ mesin tampilan (jangan dihapus/diganti nama)
+
+Catatan:
+- Jangan memisahkan file .html dari folder assets/ dan support.js.
+- Huruf Outfit dimuat dari Google Fonts, jadi tampil sempurna saat ada internet.
+- Untuk diunggah ke hosting, unggah seluruh isi folder ini apa adanya.
+- Isian dalam [kurung siku] (email, alamat, nomor SK, dll.) masih perlu dilengkapi.
